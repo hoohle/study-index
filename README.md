@@ -76,7 +76,7 @@
     
     * [★522 most recommended programming books of all-time ](https://github.com/daolf/Most-recommended-programming-books)
     
-  * ##### solo
+  * ##### SOLO
     
       * Python
         
