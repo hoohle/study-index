@@ -22,7 +22,7 @@
         *   [Front-End-Checklist ★1.1k](https://github.com/thedaviddias/Front-End-Checklist)	前端测试清单，它详细罗列了一个网站测试所涉及的方方面面，包括 HTML、CSS、安全、性能、SEO…并按照 Low、Medium、High 对测试的必要性进行划分。
       * 框架
         * [Alpine.js ★4.5k](https://github.com/alpinejs/alpine)	一个以较低成本提供大型框架（比如 Vue、React）的响应性和声明性的小框架，当然它支持你保留自己的 DOM，并按照自己的想法构建模型。
-        * Blog DEMO [RealWorld★1.2k](https://github.com/gothinkster/realworld)	展示了如何使用 React/Angular 等框架在 Node/Django 等平台上构建类 Medium 博客平台。开发者可以把它们混合起来，因为它们都遵循相同的 API 规范。![image-20200304131417954](D:\gitrepo\study-index\README.assets\image-20200304131417954.png)
+        * Blog DEMO [RealWorld★1.2k](https://github.com/gothinkster/realworld)	展示了如何使用 React/Angular 等框架在 Node/Django 等平台上构建类 Medium 博客平台。开发者可以把它们混合起来，因为它们都遵循相同的 API 规范。![image-20200304131417954](.assets/README/image-20200304131417954.png)
     * 后端
       * 
     * 全栈
