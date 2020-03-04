@@ -7,7 +7,7 @@
 ## index
 
 -  #### 一、[数据分析项目](#数据分析项目[📕](#index))
-* #### 二、[WEB项目](#WEB项目 [📕](#index))
+* #### 二、[WEB项目](#WEB项目[📕](#index))
   
   * [前端](#前端)
   * [后端](#后端)
@@ -62,7 +62,7 @@
         *   [★1.1k Front-End-Checklist ](https://github.com/thedaviddias/Front-End-Checklist)	前端测试清单，它详细罗列了一个网站测试所涉及的方方面面，包括 HTML、CSS、安全、性能、SEO…并按照 Low、Medium、High 对测试的必要性进行划分。
       * 框架
         * [★4.5k Alpine.js ](https://github.com/alpinejs/alpine)	一个以较低成本提供大型框架（比如 Vue、React）的响应性和声明性的小框架，当然它支持你保留自己的 DOM，并按照自己的想法构建模型。
-        * Blog DEMO [★1.2k RealWorld](https://github.com/gothinkster/realworld)	展示了如何使用 React/Angular 等框架在 Node/Django 等平台上构建类 Medium 博客平台。开发者可以把它们混合起来，因为它们都遵循相同的 API 规范。![image-20200304131417954](.assets/README/image-20200304131417954.png)
+        * Blog DEMO [★1.2k RealWorld](https://github.com/gothinkster/realworld)	展示了如何使用 React/Angular 等框架在 Node/Django 等平台上构建类 Medium 博客平台。开发者可以把它们混合起来，因为它们都遵循相同的 API 规范。![image-20200304171824514](.assets/README/image-20200304171824514.png)
     * ###### 后端
       
       * 
@@ -104,16 +104,18 @@
   
   >  一个总结 LeetCode 刷题思路和技巧的项目，在短短 2 天之内获得 1k+ 个 star，该项目不是简单地刷题，而是帮你培养解题思维，希望这份小抄能帮你打开升职加薪大门。
   
-  * ##### 名校资源
-    
-      * 机器学习
-        * [★741 AI Curriculum ](https://github.com/Machine-Learning-Tokyo/AI_Curriculum)	
-        
-         > ​        一个收录 斯坦福大学，麻省理工学院和加州大学伯克利分校等顶尖大学深度学习和强化学习讲座的项目，目前你可以学到：深度学习导论、视觉识别 CNN、NLP、深度学习进阶等内容。
-        
-          * [★822 coursera-ml-py ](https://github.com/nsoojin/coursera-ml-py)			
-        
-        > Coursera 的 Andrew Ng 教授为机器学习编写的 Python 编程作业，包括：线性回归、逻辑回归、神经网路、向量机、推荐系统等方面。
+* ##### 名校资源
+
+     * 机器学习
+       * [★741 AI Curriculum ](https://github.com/Machine-Learning-Tokyo/AI_Curriculum)	
+       
+       > 一个收录 斯坦福大学，麻省理工学院和加州大学伯克利分校等顶尖大学深度学习和强化学习讲座的项目，目前你可以学到：深度学习导论、视觉识别 CNN、NLP、深度学习进阶等内容。				
+       
+       * [★822 coursera-ml-py ](https://github.com/nsoojin/coursera-ml-py)	
+       
+       >  Coursera 的 Andrew Ng 教授为机器学习编写的 Python 编程作业，包括：线性回归、逻辑回归、神经网路、向量机、推荐系统等方面。
+
+​    
 
 ## 图形工作类[📕](#index)
 
