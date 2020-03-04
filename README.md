@@ -30,15 +30,14 @@
 
     * [事件管理器](#事件管理器)
 
-* #### 六、[操作系统级](#操作系统级📕#index)
+* #### 六、[操作系统级](#操作系统级📕[ ]#index)
 
     * [IOS虚拟机](#IOS虚拟机)
 
-* #### 零、[他山之石](# )
+* #### 零、[他山之石](#他山之石[ ]👩[ ])
 
-  ​      
+  ​          
 
-  ​       
 
 > 下面请欣赏那些破两千的明星项目，哎我什么时候才能获得几颗星呢，就算是一颗也好啊
 
@@ -60,7 +59,7 @@
     *   [★1.1k Front-End-Checklist ](https://github.com/thedaviddias/Front-End-Checklist)	前端测试清单，它详细罗列了一个网站测试所涉及的方方面面，包括 HTML、CSS、安全、性能、SEO…并按照 Low、Medium、High 对测试的必要性进行划分。
   * 框架
     * [★4.5k Alpine.js ](https://github.com/alpinejs/alpine)	一个以较低成本提供大型框架（比如 Vue、React）的响应性和声明性的小框架，当然它支持你保留自己的 DOM，并按照自己的想法构建模型。
-    * Blog DEMO [★1.2k RealWorld](https://github.com/gothinkster/realworld)	展示了如何使用 React/Angular 等框架在 Node/Django 等平台上构建类 Medium 博客平台。开发者可以把它们混合起来，因为它们都遵循相同的 API 规范。![image-20200304171824514](.assets/README/image-20200304171824514.png)
+    * [★1.2k RealWorld](https://github.com/gothinkster/realworld)Blog DEMO 展示了如何使用 React/Angular 等框架在 Node/Django 等平台上构建类 Medium 博客平台。开发者可以把它们混合起来，因为它们都遵循相同的 API 规范。![image-20200304171824514](.assets/README/image-20200304171824514.png)
 * ###### 后端
   
   * 
@@ -155,7 +154,7 @@
 
 * 
 
-## 操作系统级[📕](#index)
+## 操作系统级📕[](#index)
 
   * ##### IOS虚拟机
     
@@ -165,9 +164,7 @@
 
 *  
 
-######  
-
-## 他山之石[👩](#index)
+## 他山之石[ ](#index)👩[ ](#index)
 
 *  [这里集合了自己github的一个索引和专题demo](https://github.com/yanlele/node-index)
 
