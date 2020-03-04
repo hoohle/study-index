@@ -52,26 +52,24 @@
   
   * 
 
-## WEB项目 [📕](#index)
+## WEB项目[📕](#index)
 
-  * ##### 黑马级项目
+* ###### 前端
+  
+  * 测试
+    *   [★1.1k Front-End-Checklist ](https://github.com/thedaviddias/Front-End-Checklist)	前端测试清单，它详细罗列了一个网站测试所涉及的方方面面，包括 HTML、CSS、安全、性能、SEO…并按照 Low、Medium、High 对测试的必要性进行划分。
+  * 框架
+    * [★4.5k Alpine.js ](https://github.com/alpinejs/alpine)	一个以较低成本提供大型框架（比如 Vue、React）的响应性和声明性的小框架，当然它支持你保留自己的 DOM，并按照自己的想法构建模型。
+    * Blog DEMO [★1.2k RealWorld](https://github.com/gothinkster/realworld)	展示了如何使用 React/Angular 等框架在 Node/Django 等平台上构建类 Medium 博客平台。开发者可以把它们混合起来，因为它们都遵循相同的 API 规范。![image-20200304171824514](.assets/README/image-20200304171824514.png)
+* ###### 后端
+  
+  * 
+* ###### 全栈
+  
+  * [★811 goxygen ](https://github.com/Shpota/goxygen)	
+  
+  > 号称建站神器，goxygen 可以让你在几秒钟内构建一个 Web 项目，前端使用 React ，后端代码由 Golang 生成，而数据库方便采用的是 MongoDB。
 
-    * ###### 前端
-      
-      * 测试
-        *   [★1.1k Front-End-Checklist ](https://github.com/thedaviddias/Front-End-Checklist)	前端测试清单，它详细罗列了一个网站测试所涉及的方方面面，包括 HTML、CSS、安全、性能、SEO…并按照 Low、Medium、High 对测试的必要性进行划分。
-      * 框架
-        * [★4.5k Alpine.js ](https://github.com/alpinejs/alpine)	一个以较低成本提供大型框架（比如 Vue、React）的响应性和声明性的小框架，当然它支持你保留自己的 DOM，并按照自己的想法构建模型。
-        * Blog DEMO [★1.2k RealWorld](https://github.com/gothinkster/realworld)	展示了如何使用 React/Angular 等框架在 Node/Django 等平台上构建类 Medium 博客平台。开发者可以把它们混合起来，因为它们都遵循相同的 API 规范。![image-20200304171824514](.assets/README/image-20200304171824514.png)
-    * ###### 后端
-      
-      * 
-    * ###### 全栈
-      
-      * [★811 goxygen ](https://github.com/Shpota/goxygen)	
-      
-      > 号称建站神器，goxygen 可以让你在几秒钟内构建一个 Web 项目，前端使用 React ，后端代码由 Golang 生成，而数据库方便采用的是 MongoDB。
-    
 ## 编程学习类[📕](#index)
 
   * ##### 编程哲学书籍
